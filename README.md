@@ -19,7 +19,7 @@
 <a href="https://www.twitch.tv/xu_l14" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/xulia_valerio" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
-  <a href="https://portifolio-julia.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-691853?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href="https://portifolio-julia.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-691853?style=for-the-badge&logoColor=white" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
